@@ -123,7 +123,7 @@ ironfish wallet:notes
 ### Account deletion
 To delete an account
 ```sh
-ironfish wallet:remove MyAccount
+ironfish wallet:delete MyAccount
 ```
 <Terminal command={Remove} />
 
